@@ -108,7 +108,7 @@ function updateSidebar(stateName) {
   const population = statePopulations[stateName.toLowerCase()] || "Unknown";
   document.getElementById(
     "search-result"
-  ).innerHTML = `Selected: <strong class="text-xl text-red-600">${stateName}</strong><br>Population: ${population.toLocaleString()}`;
+  ).innerHTML = `Selected: <strong class="text-red-600">${stateName}</strong><br>Population: ${population.toLocaleString()}`;
 }
 
 // --- Summary Stats ---
