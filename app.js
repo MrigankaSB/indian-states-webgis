@@ -41,7 +41,7 @@ const stateColors = {
   Meghalaya: "#845ec2",
   Mizoram: "#1fc71f",
   Nagaland: "#1f00ff",
-  Orissa: "#ff5e78",
+  Odisha: "#ff5e78",
   Punjab: "#d06fff",
   Rajasthan: "#43aa8b",
   Sikkim: "#ff9671",
