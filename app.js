@@ -21,7 +21,7 @@ L.tileLayer(
   }
 ).addTo(map);
 
-// --- Fixed Colors Like Old Political Map ---
+// --- Fixed Colors Political Map ---
 const stateColors = {
   "Andhra Pradesh": "#f9844a",
   "Arunachal Pradesh": "#f3722c",
@@ -46,17 +46,18 @@ const stateColors = {
   Rajasthan: "#43aa8b",
   Sikkim: "#ff9671",
   "Tamil Nadu": "#d7263d",
-  Telangana: "#ffb997",
+  // Telangana: "#ffb997",
   Tripura: "#c11ba4",
   "Uttar Pradesh": "#c34a36",
-  Uttaranchal: "#00c9a7",
+  Uttarakhand: "#00c9a7",
   "West Bengal": "#0081cf",
   Delhi: "#ffe500",
   "Jammu and Kashmir": "#e56b6f",
-  Ladakh: "#e0aaff",
-  "Andaman and Nicobar Islands": "#6fffe9",
+  // Ladakh: "#e0aaff",
+  "Andaman and Nicobar": "#6fffe9",
   Chandigarh: "#ffb5a7",
-  "Dadra and Nagar Haveli and Daman and Diu": "#ffd6a5",
+  "Dadra and Nagar Haveli": "ffffff",
+  "Daman and Diu": "#fff000",
   Lakshadweep: "#fcd5ce",
   Puducherry: "#ffcad4",
 };
